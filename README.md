@@ -8,7 +8,7 @@
 ### Connect
 - Once available, you'll use the generated API key to connect to your memory system.
 - Connections will be over a direct p2p connection.
-- Audio/video is supported
+- Audio/video is supported.
 
 ### Details
 - As the memory system grows, it may become more costly. 
