@@ -1,12 +1,16 @@
 # AI Memory System
 
-Integrate our memory system - Coming soon
+- Our memory system provides the foundation for self-learning AI. Leverage our system to teach your AI associations between visual and audio stimuli. For example, hold up an apple and say "apple". Next time the AI sees an apple, it may remember bits of the audio of you saying apple, but it can be rather forgetful so repeated similar experiences will help develop stronger associations. Currently, with over 100 configurable parameters, each AI will truly be unique. 
 
-### Create AI memory system
-- Configure and deploy (requires tokens to create).
+### Configure & Deploy
+- 1-click deployment (tokens required).
 
-### Use our API
-- Once created, you'll use the generated API key to connect to your memory system.
+### Connect
+- Once available, you'll use the generated API key to connect to your memory system.
+- Connections will be over a direct p2p connection.
+- Audio/video is supported
 
-### Add tokens to your account
-- Tokens will be automatically deducted from your account for API usage.
+### Details
+- As the memory system grows, it may become more costly. 
+- Tokens will be automatically deducted from your account. 
+
